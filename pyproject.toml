@@ -8,6 +8,8 @@ authors = ["Your Name <you@example.com>"]
 python = "^3.8"
 beancount = "^2.3.0"
 fava = "^1.15"
+jupyter = "^1.0.0"
+RISE = "^5.6.1"
 
 [tool.poetry.dev-dependencies]
 
